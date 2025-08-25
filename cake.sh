@@ -1,4 +1,3 @@
-$ cat cake.sh
 #!/bin/bash
 
 cake1() {
